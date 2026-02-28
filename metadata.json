@@ -1,0 +1,5 @@
+{
+  "name": "Remix: 智慧景区车辆管理系统",
+  "description": "提供车位预约、车牌识别核销、实时车位监控及停车计费管理的综合后台系统。",
+  "requestFramePermissions": []
+}
